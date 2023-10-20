@@ -4,17 +4,11 @@ I'm a freelance developer passionate about creating amazing software solutions. 
 
 ## What I Do
 - Development: I specialize in HTML5, CSS, Sass, JavaScript, React, and Next.js.
-  - HTML5
     ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-  - CSS
     ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
-  - Sass
     ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white)
-  - JavaScript
     ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-  - React
     ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-  - Next.js
     ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
 
 - Problem Solving: I enjoy tackling complex problems and finding elegant solutions.
