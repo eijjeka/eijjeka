@@ -23,4 +23,4 @@
 
 ## Portfolio
 
-[!(https://img.shields.io/badge/-Portfolio-212121?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.yourwebsite.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-212121?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.yourwebsite.com)
