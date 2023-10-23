@@ -1,6 +1,6 @@
-# Привіт всім! 👋
+# Hi there! 👋
 
-Мене звати Evheniy Ihnatenko, і я фулстек розробник, який працює над різноманітними проєктами на фрілансі. Я спеціалізуюсь у роботі з HTML5, CSS, Sass, JavaScript, React та Next.js, а також Redux, MongoDB, Git та Node.js. Я насолоджуюся вирішенням складних завдань та знаходженням елегантних рішень.
+My name is Evheniy Ihnatenko, and I'm a full-stack developer who passionately creates software solutions. I am currently working on various freelance projects and open to new opportunities and collaborations. If you are looking for a dedicated and skilled developer, I would be happy to hear from you! Feel free to reach out with your proposals and ideas. Let's create something great together! 🚀
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eijjeka@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eijjeka)
